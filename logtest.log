@@ -10,3 +10,118 @@ LinuxFiles-Data/linux4.jpg
 LinuxFiles-Data/log_1.log
 LinuxFiles-Data/oslogs.log
 LinuxFiles-Data/webserver.log
+-----BR_IMAGES-----
+commit 443564c451dce262e885921cc539a0a6f4ab6c76
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:51 2024 +0200
+
+    copy all jpeg/png files from tar.gz folder to repo folder
+
+commit 21e41c6abfcdf9e25d58491b1362b9d3444916ac
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:50 2024 +0200
+
+    Extract tar.gz file and write a all its contaning files names to logtest.log
+
+commit 3ee3efc9f65051b2620a59b22267809b5a8cff65
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:50 2024 +0200
+
+    Downloaded tar.gz file and write a line to logtest.log
+
+commit 72bc9043f6e0f93dd0568afe1d8aee757c38d9de
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:48 2024 +0200
+
+    Add line to logtest.log
+
+commit 3492f4f111f5ba8031e6c98e05448ea6cc8de4d1
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:47 2024 +0200
+
+    Add logtest.log file
+-----BR_TEXT-----
+commit dc0fe5b0e651ffe0a846b8b4bb9bc72b117590b7
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:52 2024 +0200
+
+    copy all txt/log files from tar.gz folder to repo folder
+
+commit 443564c451dce262e885921cc539a0a6f4ab6c76
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:51 2024 +0200
+
+    copy all jpeg/png files from tar.gz folder to repo folder
+
+commit 21e41c6abfcdf9e25d58491b1362b9d3444916ac
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:50 2024 +0200
+
+    Extract tar.gz file and write a all its contaning files names to logtest.log
+
+commit 3ee3efc9f65051b2620a59b22267809b5a8cff65
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:50 2024 +0200
+
+    Downloaded tar.gz file and write a line to logtest.log
+
+commit 72bc9043f6e0f93dd0568afe1d8aee757c38d9de
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:48 2024 +0200
+
+    Add line to logtest.log
+
+commit 3492f4f111f5ba8031e6c98e05448ea6cc8de4d1
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:47 2024 +0200
+
+    Add logtest.log file
+-----main-----
+commit 4e8034c06bc6a93bcdc09dd5a92558098bccda7a
+Merge: c5fd33c dc0fe5b
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:53 2024 +0200
+
+    merging branches to main
+
+commit c5fd33c392fffb1b5096b65acfb56b0cedf31545
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:53 2024 +0200
+
+    delete downloaded tar.gz file
+
+commit dc0fe5b0e651ffe0a846b8b4bb9bc72b117590b7
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:52 2024 +0200
+
+    copy all txt/log files from tar.gz folder to repo folder
+
+commit 443564c451dce262e885921cc539a0a6f4ab6c76
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:51 2024 +0200
+
+    copy all jpeg/png files from tar.gz folder to repo folder
+
+commit 21e41c6abfcdf9e25d58491b1362b9d3444916ac
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:50 2024 +0200
+
+    Extract tar.gz file and write a all its contaning files names to logtest.log
+
+commit 3ee3efc9f65051b2620a59b22267809b5a8cff65
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:50 2024 +0200
+
+    Downloaded tar.gz file and write a line to logtest.log
+
+commit 72bc9043f6e0f93dd0568afe1d8aee757c38d9de
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:48 2024 +0200
+
+    Add line to logtest.log
+
+commit 3492f4f111f5ba8031e6c98e05448ea6cc8de4d1
+Author: BazzyD <ofir3347@gmail.com>
+Date:   Sat Mar 2 02:39:47 2024 +0200
+
+    Add logtest.log file
